@@ -1,6 +1,6 @@
 g Sytem;
 
-space AulaPolimorfismo
+namespace Aula Abstracao
 
 class Program
 {

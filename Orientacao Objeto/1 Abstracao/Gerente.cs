@@ -1,5 +1,5 @@
 using System; 
-namespace AulaPolimorfismo
+namespace Aula Abstracao
 {
     public class Gerente : Imposto
     {
