@@ -1,7 +1,7 @@
 using System;
-namespace Aula Encapsulamento
+namespace Aula Heranca
 {
-    public class Gerente : Imposto 
+    public class Gerente : Imposto
     {
         public Gerente()
         {

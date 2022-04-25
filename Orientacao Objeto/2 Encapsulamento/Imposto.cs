@@ -1,5 +1,5 @@
 using Sytem;
-namespace AulaClasse
+namespace Aula Encapsulamento
 {
     public class Imposto
     {

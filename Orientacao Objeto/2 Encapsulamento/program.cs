@@ -1,6 +1,6 @@
 using Sytem;
 
-namespace AulClasse
+namespace Aula Encapsulamento
 {
     class Program
     {

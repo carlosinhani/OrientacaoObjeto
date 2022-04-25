@@ -1,5 +1,5 @@
 using Sytem;
-namespace Aula Aula Abstracao
+namespace Aula Abstracao
 {
     public abstract class Imposto 
     {
