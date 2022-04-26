@@ -1,6 +1,6 @@
 using System;
-namespace Aula Polimorfismo
-{
+namespace AulaPolimorfismo;
+
     public class Imposto 
     {
         public Imposto()
@@ -15,4 +15,3 @@ namespace Aula Polimorfismo
             Console.WriteLine("Calculo GERAL do vale Transporte.");
         }
     }
-}

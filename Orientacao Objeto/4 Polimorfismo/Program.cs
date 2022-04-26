@@ -1,9 +1,9 @@
 using System;
 
-namespace Aula Polimorfismo
-{
+namespace AulaPolimorfismo;
+
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             Gerente gerente = new Gerente();
@@ -15,4 +15,3 @@ namespace Aula Polimorfismo
             Console.WriteLine("FIM: Polomorfismo");
         }
     }
-}
