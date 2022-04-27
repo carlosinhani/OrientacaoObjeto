@@ -1,6 +1,6 @@
 using System;
-namespace Aula Polimorfismo
-{
+namespace AulaPolimorfismo;
+
     public class Gerente : Imposto
     {
         public Gerente()
@@ -11,4 +11,3 @@ namespace Aula Polimorfismo
             Console.WriteLine("Calculo GERENTE do vale alimetação.");
         }
     }
-}

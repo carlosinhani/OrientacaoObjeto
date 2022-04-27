@@ -1,10 +1,9 @@
 using System;
-namespace Aula Encapsulamento
-{
+namespace AulaEncapsulamento;
+
     public class Gerente : Imposto 
     {
         public Gerente()
         {
         }
     }
-}

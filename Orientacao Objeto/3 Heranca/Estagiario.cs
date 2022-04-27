@@ -1,10 +1,9 @@
 using System;
-namespace Aula Heranca
-{
+namespace AulaHeranca;
+
     public class Estagiario : Imposto
     {
         public Estagiario()
         {
         }
     }
-}

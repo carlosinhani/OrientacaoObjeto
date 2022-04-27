@@ -1,7 +1,7 @@
 using System;
-namespace Aula Polimorfismo
-{
-    public class Atendente : Imposto
+namespace AulaPolimorfismo;
+
+   public class Atendente : Imposto
     {
         public Atendente()
         {
@@ -11,4 +11,3 @@ namespace Aula Polimorfismo
             Console.WriteLine("Calculo do ATENDENTE do vale alimetação.");
         }
     }
-}

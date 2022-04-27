@@ -1,0 +1,66 @@
+Classes 
+
+Exemplo em diagrama UML 
+
+ Nomes da Classe, Atributos e Métodos 
+
+ Ex: Nome de Classe 
+
+ Produtos
+
+Ex: Atributos
+
+ Codigo:int
+ Nome: int
+ Descrição:string
+ Preco de compra:decimal
+ Preco de venda: decimal 
+ Quantidade estque : int 
+ ativo: bool 
+ data_cadastro: DataTime 
+
+Ex Métodos
+
+inserir(): void
+alterar(): void
+excluir(): void
+pesquisar(): void
+
+
+Objetos 
+
+Na programação o objeto é uma instanciação( criação a partir ) de uma classe. Para criarmos ou 
+ "instanciarmos" objetos de uma determinada classe, utilizamos o operedor NEW.
+
+Exemplo: 
+
+Produto obj = new Produto();
+
+
+Visibilidade 
+
+ A visibilidade é importante para a proteção do código a suas funcionalidades, define quem pode alterar 
+cada dado dos tecahos de código em três principais níveis:
+
+
+.Pública( representada pelo símbolo "+");
+.Privada( representada pelo símbolo "-");
+.Protegida( representada pelo símbolo "#");
+
+De forma completada se encontram os modificadores: 
+
+Modificador : Significado
+
+public : Sem limitação de acesso.
+protected internal: Acesso limitado à própria classe. às classes derivadas e ao próprio assembly.
+protected : Acesso limitado à própria classe. às classes derivadas.
+internal: Acesso limitado ao próprio assembly.
+private: Acesso limitado à própria classe.
+
+
+ Esse encapsulamento de atributos e métodos impede o chamado vazamento de escopo, onde um
+atributos ou método é visível por alguém que não deveria vê-lo, como outro objeto ou classe. 
+ Isso evita a confusão do uso de variáveis globais no programa, deixando mais fácil de identificar
+em qual estado cada variável vai estar a cada momento do programa, já que o restrição de acesso
+nos permite indetificar quem consegue modicá-la.
+ 

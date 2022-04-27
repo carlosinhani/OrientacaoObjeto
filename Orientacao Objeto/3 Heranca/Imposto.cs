@@ -1,6 +1,6 @@
 using System;
-namespace Aula Heranca
-{
+namespace AulaHeranca;
+
     public class Imposto
     {
         public Imposto()
@@ -12,7 +12,6 @@ namespace Aula Heranca
         }
         public void valeAlimentacao()
         {
-            Console.WriteLine("Alimentacao")
+            Console.WriteLine("Alimentacao");
         }
     }
-}

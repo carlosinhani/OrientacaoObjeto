@@ -1,10 +1,8 @@
 using System;
-namespace Aula Polimorfismo
-{
+namespace AulaPolimorfismo;
     public class Estagiario : Imposto
     {
         public Estagiario()
         {
         }
     }
-}

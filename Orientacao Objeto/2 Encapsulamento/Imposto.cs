@@ -1,6 +1,6 @@
 using Sytem;
-namespace Aula Encapsulamento
-{
+namespace AulaEncapsulamento;
+
     public class Imposto
     {
         private double valor;
@@ -20,7 +20,6 @@ namespace Aula Encapsulamento
         }
         public void valeAlimentacao()
         {
-            Console.WriteLine("Alimentacao")
+            Console.WriteLine("Alimentacao");
         }
     }
-}

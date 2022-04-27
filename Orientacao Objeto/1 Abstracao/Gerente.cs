@@ -1,6 +1,6 @@
 using System; 
-namespace Aula Abstracao
-{
+namespace AulaAbstracao;
+
     public class Gerente : Imposto
     {
        public Gerente()
@@ -14,4 +14,3 @@ namespace Aula Abstracao
            Console.WriteLine("Vale Transporte");
        }
     }
-}

@@ -1,6 +1,6 @@
 g Sytem;
 
-namespace Aula Abstracao
+namespace AulaAbstracao;
 
 class Program
 {

@@ -1,5 +1,5 @@
 using System;
-namespace Aula Heranca
+namespace AulaHeranca
 {
     public class Gerente : Imposto
     {

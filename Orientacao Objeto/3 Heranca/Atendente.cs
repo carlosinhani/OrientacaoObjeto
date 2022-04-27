@@ -1,10 +1,10 @@
 using System;
-namespace Aula Heranca
-{
+namespace AulaHeranca;
+
     public class Atendente : Imposto
     {
         public Atendente()
         {
         }
     }
-}
+

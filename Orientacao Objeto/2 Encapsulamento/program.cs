@@ -1,7 +1,7 @@
 using Sytem;
 
-namespace Aula Encapsulamento
-{
+namespace AulaEncapsulamento;
+
     class Program
     {
         static void Main(string[] args)
@@ -13,7 +13,6 @@ namespace Aula Encapsulamento
             gg.valeTransporte();
             Console.WriteLine("Valor" + valorCalc);
 
-            Console,WriteLine("FIM");
+            Console.WriteLine("FIM");
         }
     }
-}

@@ -1,7 +1,7 @@
 using Sytem;
 
-namespace Aula Heranca
-{
+namespace AulaHeranca;
+
     class Program
     {
         static void Main(string[] args)
@@ -12,4 +12,3 @@ namespace Aula Heranca
             Console.WriteLine("FIM");
         }
     }
-}
